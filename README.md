@@ -1,5 +1,5 @@
 # About me
-> Hi, my name is Bogdan Burich, I am tech guy from Russia. I love to code and interested in technologies at whole.
+Hi, my name is Bogdan Burich, I am tech guy from Russia. I love to code and interested in technologies at whole.
 Contact me on Telegram: @bogdanburich
 
 ## Core technologies used
