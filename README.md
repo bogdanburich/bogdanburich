@@ -9,4 +9,4 @@ Contact me on Telegram: @bogdanburich
 
 You can see work experience on my [LinkedIn profile](https://www.linkedin.com/in/bogdan-burich-5280821a6/)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username= &theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bogdanburich&theme=radical)
