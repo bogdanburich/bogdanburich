@@ -6,5 +6,7 @@ Contact me on Telegram: @bogdanburich
 - Python. Django + DRF
 - REST API
 - SQL. PostgreSQL
+- Docker
+- Gitlab CI, Github Actions
 
 You can see work experience on my [LinkedIn profile](https://www.linkedin.com/in/bogdan-burich-5280821a6/)
